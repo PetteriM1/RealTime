@@ -1,0 +1,5 @@
+name: RealTime
+version: "${pom.version}"
+api: ["1.0.0"]
+author: PetteriM1
+main: rt.RealTime
